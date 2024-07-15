@@ -3,10 +3,13 @@
 
 <img align="center" alt="codingImage" width="800" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" />
 
+<a href="https://app.daily.dev/akashkumar14"><img src="https://api.daily.dev/devcards/v2/PuZa2j9GJmrH5ntaYMQXQ.png?r=02h&type=default" width="356" alt="AKASH KUMAR's Dev Card"/></a>
+
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=akashkumar4243" alt="akashkumar4243" />
   </a> 
+  
 </p>
 
 - 🔭 I’m currently working on [Evtor Panel](http://188.166.183.59:3100/)

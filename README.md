@@ -105,18 +105,10 @@
 </p>
 
 
+<a href="https://github.com/AkashKumar4243"><img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashkumar4243&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
+<a href="https://github.com/AkashKumar4243"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=akashkumar4243&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
+<a href="https://github.com/AkashKumar4243"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=akashkumar4243&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashkumar4243&show_icons=true&locale=en&layout=compact" alt="akashkumar4243" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akashkumar4243&show_icons=true&locale=en" alt="akashkumar4243" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashkumar4243&" alt="akashkumar4243" />
-</p>
 
 <h3 align="left">Profile Views:</h3>
 <p align="left">

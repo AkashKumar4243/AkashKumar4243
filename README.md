@@ -12,8 +12,7 @@
   
 </p>
 
-- 🔭 I’m currently working on [Evtor Panel](http://188.166.183.59:3100/)
-- 🌱 I’m currently learning **Apache Kafka** and **React Native**
+- Currently pursuing M.Tech at IIT Kanpur.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

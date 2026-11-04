@@ -17,11 +17,6 @@
 - Currently pursuing M.Tech at IIT Kanpur.
 
 <h3 align="left">Connect with me:</h3>
-<h2 align="left">💻 Languages I Use</h2>
-
-<p align="left">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=akashkumar4243&layout=compact&theme=tokyonight&langs_count=10" />
-</p>
 <p align="left">
   <a href="https://linkedin.com/in/akash kumar" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash kumar" height="30" width="40" />
@@ -32,6 +27,12 @@
   <a href="https://www.leetcode.com/akash2002155" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akash2002155" height="30" width="40" />
   </a>
+</p>
+
+<h2 align="left">💻 Languages I Use</h2>
+
+<p align="left">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=akashkumar4243&layout=compact&theme=tokyonight&langs_count=10" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -8,7 +8,7 @@
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img
-      src="https://github-profile-trophy-liard-delta.vercel.app/?username=akashkumar4243&theme=onedark&column=7"
+      src="https://trophy.ryglcloud.net/?username=akashkumar4243&theme=onedark&column=7"
       alt="GitHub Trophies"
     />
   </a>

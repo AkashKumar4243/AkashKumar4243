@@ -5,11 +5,13 @@
 
 <a href="https://app.daily.dev/akashkumar14"><img src="https://api.daily.dev/devcards/v2/PuZa2j9GJmrH5ntaYMQXQ.png?r=02h&type=default" width="356" alt="AKASH KUMAR's Dev Card"/></a>
 
-<p align="left"> 
+<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=akashkumar4243" alt="akashkumar4243" />
-  </a> 
-  
+    <img
+      src="https://github-profile-trophy-liard-delta.vercel.app/?username=akashkumar4243&theme=onedark&column=7"
+      alt="GitHub Trophies"
+    />
+  </a>
 </p>
 
 - Currently pursuing M.Tech at IIT Kanpur.
